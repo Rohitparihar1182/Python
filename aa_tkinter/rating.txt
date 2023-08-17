@@ -1,0 +1,7 @@
+
+user 1 rated 0*
+user 2 rated 10*
+user 1 rated 3*
+user 1 rated 10*
+user 1 rated 7*
+user 1 rated 4*

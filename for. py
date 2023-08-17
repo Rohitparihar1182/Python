@@ -1,0 +1,8 @@
+str="Amrapali"
+for i in str:
+	print(i)
+if i=="A":
+continue:
+	else i=="l":
+		break:
+			

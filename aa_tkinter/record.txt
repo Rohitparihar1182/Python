@@ -1,0 +1,3 @@
+rohit,9865,male,paytm,1
+,0,,,0
+priyansh,100,female,modi,1
